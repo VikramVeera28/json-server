@@ -25,7 +25,100 @@
       "password": "Vikramveera28"
     }
   ],
-  "game": [],
-  "restaurant": [],
-  "laundary": []
+  "game": [
+  {
+    "id": 1,
+    "user": "VikramKumar",
+    "gname": "Golf",
+    "grate": 500
+  },
+  {
+    "id": 2,
+    "user": "VikramKumar",
+    "gname": "Tennies",
+    "grate": 200
+  },
+  {
+    "id": 3,
+    "user": "VikramKumar",
+    "gname": "Pool Ball",
+    "grate": 300
+  },
+  {
+    "id": 4,
+    "user": "VikramKumar",
+    "gname": "Indoor Games",
+    "grate": 250
+  },
+  {
+    "id": 5,
+    "user": "VikramKumar",
+    "gname": "Video Games",
+    "grate": 150
+  }
+],
+  "restaurant": [
+  {
+    "id": 1,
+    "user": "VikramKumar",
+    "ritem": "Biriyani",
+    "rrate": 150
+  },
+  {
+    "id": 2,
+    "user": "VikramKumar",
+    "ritem": "Chicken Rice",
+    "rrate": 110
+  },
+  {
+    "id": 3,
+    "user": "VikramKumar",
+    "ritem": "Meals",
+    "rrate": 70
+  },
+  {
+    "id": 4,
+    "user": "VikramKumar",
+    "ritem": "Tandoori",
+    "rrate": 160
+  },
+  {
+    "id": 5,
+    "user": "VikramKumar",
+    "ritem": "Cool Drinks",
+    "rrate": 110
+  }
+  ],
+  "laundary": [
+  {
+    "id": 1,
+    "user": "VikramKumar",
+    "litem": "Shirt",
+    "lrate": 15
+  },
+  {
+    "id": 2,
+    "user": "VikramKumar",
+    "litem": "Pants",
+    "lrate": 20
+  },
+  {
+    "id": 3,
+    "user": "VikramKumar",
+    "litem": "Jeans",
+    "lrate": 30
+  },
+  {
+    "id": 4,
+    "user": "VikramKumar",
+    "litem": "Bed Cloth",
+    "lrate": 50
+  },
+  {
+    "id": 5,
+    "user": "VikramKumar",
+    "litem": "Gloes",
+    "lrate": 20
+  }
+]
 }
